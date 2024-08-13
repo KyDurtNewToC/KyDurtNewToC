@@ -1,6 +1,1 @@
-status = {
-  "isBeginner" = true;
-  "isLookingForAJob" = perhaps;
-  "isGraphicDesigner" = false;
-  "isBrainDed" = true;
-}
+why u a nerd? idk i just code
